@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Receiver</string>
+    <string name="FIO">ФИО: </string>
+    <string name="device">Устройство: </string>
+    <string name="sn_imei">SN IMEI: </string>
+    <string name="date_inv">Дата приема: </string>
+    <string name="description">Описание неисправности устройства: </string>
+    <string name="date_exp">Дата выдачи: </string>
+    <string name="status">Статус: </string>
+    <string name="garantee">Гарантия: </string>
+</resources>
